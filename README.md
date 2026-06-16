@@ -236,9 +236,6 @@ Matplotlib
 Google Colab
 
 GitHub
-
-✅ Si quieres, también puedo ayudarte a agregar 3 cosas que hacen que tu repositorio se vea MUCHO más profesional:
-
 1️⃣ Cómo agregar imágenes de tus gráficas en el README
 2️⃣ Cómo dejar el README al estilo portafolio de Data Analyst
 3️⃣ Cómo escribir un buen commit final para el proyecto (esto también lo revisan mucho).
