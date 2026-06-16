@@ -1,4 +1,4 @@
-# sprint7-final-project
+# Telecom Customer Churn Analysis
 Este proyecto analiza el comportamiento de clientes de ConnectaTel utilizando datos de planes, usuarios y uso del servicio. Se realizaron procesos de limpieza, análisis exploratorio, detección de outliers y segmentación de clientes por edad y nivel de uso para identificar patrones y oportunidades de negocio.
 Análisis de Clientes – ConnectaTel
 Descripción del Proyecto
